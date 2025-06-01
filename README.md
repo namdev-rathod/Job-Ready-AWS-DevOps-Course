@@ -14,27 +14,6 @@ Welcome to the most **affordable and practical AWS DevOps Course** built for rea
 
 ---
 
-## 💰 Offer Price: **Just ₹1499/-**
-
-📲 **To Enroll or Learn More:**  
-WhatsApp us at: **7276 12 1983**
-
-🔗 **Access Course Content:**  
-👉 [GitHub Repository – NextGenDevOps](https://github.com/namdev-rathod/NextGenDevOps)
-
-## 🖼 Course Demo
-
-🎥 [Watch Course Preview on YouTube](https://www.youtube.com/watch?v=1tx44WgKam4)
-
----
-
-### 💼 Ready to become a DevOps Engineer?
-
-⭐ **Star this repo** to stay updated  
-📲 **WhatsApp:** [7276 12 1983]  
-
----
-
 ## 📁 Course Modules Include:
 
 - ✅ AWS Basics to Advanced (EC2, S3, IAM, CloudWatch, RDS, VPC, etc.)
@@ -71,3 +50,24 @@ WhatsApp us at: **7276 12 1983**
 ![image](https://github.com/user-attachments/assets/14ecf9e3-9eaf-4fc1-ace0-ac369911cb88)
 
 ![image](https://github.com/user-attachments/assets/25cbbf36-9ac6-4de1-b829-5c23e11a9570)
+
+## 💰 Offer Price: **Just ₹1499/-**
+
+📲 **To Enroll or Learn More:**  
+WhatsApp us at: **7276 12 1983**
+
+🔗 **Access Course Content:**  
+👉 [GitHub Repository – NextGenDevOps](https://github.com/namdev-rathod/NextGenDevOps)
+
+## 🖼 Course Demo
+
+🎥 [Watch Course Preview on YouTube](https://www.youtube.com/watch?v=1tx44WgKam4)
+
+---
+
+### 💼 Ready to become a DevOps Engineer?
+
+⭐ **Star this repo** to stay updated  
+📲 **WhatsApp:** [7276 12 1983]  
+
+---
