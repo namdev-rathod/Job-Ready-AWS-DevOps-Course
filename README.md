@@ -71,7 +71,9 @@ WhatsApp us at: **7276 12 1983**
 
 ### 💼 Ready to become a DevOps Engineer?
 
-⭐ **Star this repo** to stay updated  
-📲 **WhatsApp:** [7276 12 1983]  
+---
+
+⭐ **Star this repo** to stay updated with future DevOps content and projects!  
+📲 **WhatsApp:** [7276 12 1983](https://wa.me/917276121983)
 
 ---
