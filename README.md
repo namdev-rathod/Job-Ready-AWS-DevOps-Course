@@ -22,6 +22,17 @@ WhatsApp us at: **7276 12 1983**
 🔗 **Access Course Content:**  
 👉 [GitHub Repository – NextGenDevOps](https://github.com/namdev-rathod/NextGenDevOps)
 
+## 🖼 Course Demo
+
+🎥 [Watch Course Preview on YouTube](https://www.youtube.com/watch?v=1tx44WgKam4)
+
+---
+
+### 💼 Ready to become a DevOps Engineer?
+
+⭐ **Star this repo** to stay updated  
+📲 **WhatsApp:** [7276 12 1983]  
+
 ---
 
 ## 📁 Course Modules Include:
@@ -35,15 +46,28 @@ WhatsApp us at: **7276 12 1983**
 
 ---
 
-## 🖼 Course Demo
+## 📁 AWS DevOps Course:
 
-🎥 [Watch Course Preview on YouTube](https://www.youtube.com/watch?v=1tx44WgKam4)
+![image](https://github.com/user-attachments/assets/ce53bcb5-16bb-4a3f-817d-06b27552b753)
 
----
+![image](https://github.com/user-attachments/assets/c5baed0b-f531-4b3c-8b0d-c6e3472fbaf5)
 
-### 💼 Ready to become a DevOps Engineer?
+![image](https://github.com/user-attachments/assets/44e4bb66-7c2f-4042-9672-a75b0b8a7c85)
 
-⭐ **Star this repo** to stay updated  
-📲 **WhatsApp:** [7276 12 1983]  
+![image](https://github.com/user-attachments/assets/88bf48a3-a759-4a56-8206-6cdbcd5a2ff4)
 
----
+![image](https://github.com/user-attachments/assets/ed642a4f-70c1-4e4d-81a2-20d5c4c86532)
+
+![image](https://github.com/user-attachments/assets/5ba22f9c-9395-4963-9474-0431b6c580d3)
+
+## 📁 AWS DevOps Real Time Projects:
+
+![image](https://github.com/user-attachments/assets/e8c77974-44f3-4dd8-8a5d-0c5781f2a55b)
+
+![image](https://github.com/user-attachments/assets/e29d6b8d-e90f-43cc-8467-049e604785cc)
+
+![image](https://github.com/user-attachments/assets/c59fbd95-c28b-40d8-bc9f-dc28d406b825)
+
+![image](https://github.com/user-attachments/assets/14ecf9e3-9eaf-4fc1-ace0-ac369911cb88)
+
+![image](https://github.com/user-attachments/assets/25cbbf36-9ac6-4de1-b829-5c23e11a9570)
