@@ -6,11 +6,15 @@ Welcome to the most **affordable and practical AWS DevOps Course** built for rea
 
 ## 📦 What You'll Get
 
-✅ **Recorded Sessions** from Live AWS DevOps Batches  
-✅ **Real-Time Projects** – Hands-on experience with demanding devops tools:
-✅ **Interview Preparation** – Q&A, real-world scenarios, mock sessions  
-✅ **Resume Guidance** – Craft a professional resume tailored to DevOps roles  
+✅ **Recorded Sessions** from Live AWS DevOps Batches
+
+✅ **Real-Time Projects** – Hands-on experience with real world projects
+
+✅ **Resume Guidance** – Craft a professional resume tailored to DevOps roles
+
 ✅ **Community Support** – Lifetime access to a growing DevOps support network
+
+✅ **Interview Preparation** – Q&A, real-world scenarios, mock sessions
 
 ---
 
