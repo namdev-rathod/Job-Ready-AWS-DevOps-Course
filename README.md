@@ -1,4 +1,4 @@
-## 🚀 Job-Ready AWS DevOps Course – Recorded Sessions (Only ₹1499/-)
+## 🚀 Job-Ready AWS DevOps Course – Recorded Sessions
 
 Welcome to the most **affordable and practical AWS DevOps Course** built for real-world job readiness! Perfect for beginners and professionals looking to upskill and land DevOps roles.
 
@@ -7,10 +7,7 @@ Welcome to the most **affordable and practical AWS DevOps Course** built for rea
 ## 📦 What You'll Get
 
 ✅ **Recorded Sessions** from Live AWS DevOps Batches  
-✅ **Real-Time Projects** – Hands-on experience with tools like:
-- Docker, Kubernetes, Jenkins, GitLab CI/CD
-- Terraform, AWS Services (EC2, S3, IAM, VPC, Lambda, etc.)
-
+✅ **Real-Time Projects** – Hands-on experience with demanding devops tools:
 ✅ **Interview Preparation** – Q&A, real-world scenarios, mock sessions  
 ✅ **Resume Guidance** – Craft a professional resume tailored to DevOps roles  
 ✅ **Community Support** – Lifetime access to a growing DevOps support network
@@ -32,8 +29,8 @@ WhatsApp us at: **7276 12 1983**
 - ✅ AWS Basics to Advanced (EC2, S3, IAM, CloudWatch, RDS, VPC, etc.)
 - ✅ DevOps Tools: Git, Jenkins, Docker, Kubernetes (EKS)
 - ✅ Infrastructure as Code: Terraform & CDK
-- ✅ CI/CD Pipeline Projects using GitLab & GitHub Actions
-- ✅ Monitoring: Prometheus + Grafana
+- ✅ CI/CD Pipeline Projects using Jenkins, GitLab & GitHub Actions
+- ✅ Monitoring: Prometheus + Grafana & CloudWatch
 - ✅ Interview FAQs & Resume Building
 
 ---
