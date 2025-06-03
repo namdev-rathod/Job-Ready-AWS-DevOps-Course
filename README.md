@@ -55,7 +55,7 @@ Welcome to the most **affordable and practical AWS DevOps Course** built for rea
 
 ![image](https://github.com/user-attachments/assets/25cbbf36-9ac6-4de1-b829-5c23e11a9570)
 
-## 💰 Offer Price: **Just ₹1499/-**
+## 💰 Offer Price: **Just ₹1999/-**
 
 📲 **To Enroll or Learn More:**  
 WhatsApp us at: **7276 12 1983**
